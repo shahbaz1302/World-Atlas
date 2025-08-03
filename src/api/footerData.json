@@ -1,0 +1,18 @@
+
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Lucknow,Uttar Pradesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9876543211"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "worldatlas@gmail.com"
+  }
+]
